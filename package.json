@@ -1,7 +1,7 @@
 {
     "name": "TechRevolt-Launcher",
     "preductname": "TechRevolt Launcher",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "Launcher Mincraft pour le serveur TechRevolt",
     "main": "src/app.js",
     "author": {
